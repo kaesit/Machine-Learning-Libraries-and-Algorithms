@@ -1,5 +1,9 @@
 This is a repo with machine learning algorithms and libraries with examples.
+
+
 In fact, purpose of the repo make you be aware of the ML algorithms concept even you couldn't understand them.
+
+
 In this way, you're gonna be able to gain knowledge even if you're not interested in this sphere.
 
 
@@ -11,4 +15,7 @@ In this way, you're gonna be able to gain knowledge even if you're not intereste
 <img width="20" />
 <img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="numpy logo"  /> Numpy Version 1.26.3
 <img width="20" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45" alt="numpy logo"  /> Numpy Version 1.26.3
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45" alt="numpy logo"  /> Matplotlib Version 1.0.7
+<img width="20" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Tensorflow-svgrepo-com.svg" height="45" alt="numpy logo"  /> Tensorflow Version 2.12.0
+
