@@ -15,7 +15,8 @@ In this way, you're gonna be able to gain knowledge even if you're not intereste
 <img width="10" />
 <img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="numpy logo"  /> Numpy Version 1.26.3
 <img width="10" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45" alt="numpy logo"  /> Matplotlib Version 1.0.7
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45" alt="matplotlib logo"  /> Matplotlib Version 1.0.7
 <img width="80" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Tensorflow-svgrepo-com.svg" height="45" alt="numpy logo"  /> Tensorflow Version 2.12.0
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Tensorflow-svgrepo-com.svg" height="45" alt="tensorflow logo"  /> Tensorflow Version 2.12.0
+<img width="10" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="45" alt="sklearn logo"  /> Sklearn Version 1.5.0
